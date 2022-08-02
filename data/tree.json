@@ -1,0 +1,317 @@
+{
+  "roots": [
+    {
+      "key": "ik5Bi5OCTsmfKfq5JQtEB",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "FPjLC17J7C0fbboGPt7fE",
+          "title": "Computer Science",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "6rlvxof7uy4st51ad09trps",
+              "title": "Data",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "a6kFvecTMUxXtmCBgiScY",
+                  "title": "Open Courses",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "dNglx9E2Q0wCABrKbfknx",
+              "title": "Development and Design",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "qgG6FxYHRQOWUTbqlONqT",
+              "title": "Discrete Structures",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "9PTbvU9AW1S2HMuY3MzUO",
+              "title": "Hackathon",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "v562evfpexamdoo23gq7uep",
+              "title": "Haskell",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "6qqrjio7nnkje405a1s8jr3",
+              "title": "Interview",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kosx1jfsyu51awns6wp0aub",
+              "title": "Vim",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "5TSx68IYHZjI1cHGba8gU",
+              "title": "Web Scraping",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "rf77cskqqdis7iphbr6n69c",
+          "title": "Curated Resources",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "qJVQpSGspGEf5Rpn2u9lB",
+          "title": "Gen Ed",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ykJFSHBzDetVjhB8t7XeY",
+              "title": "Philo 2367",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "uw6sl1jzas7tg8auknyshi6",
+          "title": "Looking Back",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "12vjatq890faxbzyrdci7te",
+              "title": "May 2022 Reflection",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "vi6yhdzlK5dncfpklrolk",
+          "title": "Math",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "Z8zIqLMYvswnIuU0VrmkB",
+              "title": "Multivariable Calculus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "c22KmW1rhvQZkNtp1FCkr",
+              "title": "Vectors",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": true,
+              "children": [
+                {
+                  "key": "Ir3Zj3tX8BozLturMJSPg",
+                  "title": "Problems",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "WUS8aRIe1ACHMlMuIYHgK",
+                  "title": "Products",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "b4nvdrVEHFNG4JtRcHATl",
+          "title": "Templates",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": true,
+          "children": [
+            {
+              "key": "3PCxnT5p8sDtvztACFjd7",
+              "title": "CS Note",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "jReIBptnm04tyfBYMh93q",
+              "title": "Math Note",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ipjj98ie54pho326xznoosj",
+          "title": "What Im Doing",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "5a5cam91e5jjdh0p1jj7vls",
+              "title": "Telegram Notes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "FIheXSyIWR2rGtamhEV8g",
+          "title": "Tags",
+          "icon": "numberOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": true,
+          "children": [
+            {
+              "key": "jchkysrj7q9hutg2gxrrj61",
+              "title": "Ocw",
+              "icon": null,
+              "hasTitleNumberOutlined": true,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "BxkK5csVlrBifWlnPVe0A",
+              "title": "School",
+              "icon": null,
+              "hasTitleNumberOutlined": true,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "TvMtRrT7Xl4dtIjMgBZnK",
+              "title": "TODO",
+              "icon": null,
+              "hasTitleNumberOutlined": true,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "ik5Bi5OCTsmfKfq5JQtEB": null,
+    "ipjj98ie54pho326xznoosj": "ik5Bi5OCTsmfKfq5JQtEB",
+    "5a5cam91e5jjdh0p1jj7vls": "ipjj98ie54pho326xznoosj",
+    "b4nvdrVEHFNG4JtRcHATl": "ik5Bi5OCTsmfKfq5JQtEB",
+    "jReIBptnm04tyfBYMh93q": "b4nvdrVEHFNG4JtRcHATl",
+    "3PCxnT5p8sDtvztACFjd7": "b4nvdrVEHFNG4JtRcHATl",
+    "FIheXSyIWR2rGtamhEV8g": "ik5Bi5OCTsmfKfq5JQtEB",
+    "BxkK5csVlrBifWlnPVe0A": "FIheXSyIWR2rGtamhEV8g",
+    "jchkysrj7q9hutg2gxrrj61": "FIheXSyIWR2rGtamhEV8g",
+    "TvMtRrT7Xl4dtIjMgBZnK": "FIheXSyIWR2rGtamhEV8g",
+    "vi6yhdzlK5dncfpklrolk": "ik5Bi5OCTsmfKfq5JQtEB",
+    "c22KmW1rhvQZkNtp1FCkr": "vi6yhdzlK5dncfpklrolk",
+    "WUS8aRIe1ACHMlMuIYHgK": "c22KmW1rhvQZkNtp1FCkr",
+    "Ir3Zj3tX8BozLturMJSPg": "c22KmW1rhvQZkNtp1FCkr",
+    "Z8zIqLMYvswnIuU0VrmkB": "vi6yhdzlK5dncfpklrolk",
+    "uw6sl1jzas7tg8auknyshi6": "ik5Bi5OCTsmfKfq5JQtEB",
+    "12vjatq890faxbzyrdci7te": "uw6sl1jzas7tg8auknyshi6",
+    "qJVQpSGspGEf5Rpn2u9lB": "ik5Bi5OCTsmfKfq5JQtEB",
+    "ykJFSHBzDetVjhB8t7XeY": "qJVQpSGspGEf5Rpn2u9lB",
+    "rf77cskqqdis7iphbr6n69c": "ik5Bi5OCTsmfKfq5JQtEB",
+    "FPjLC17J7C0fbboGPt7fE": "ik5Bi5OCTsmfKfq5JQtEB",
+    "6rlvxof7uy4st51ad09trps": "FPjLC17J7C0fbboGPt7fE",
+    "a6kFvecTMUxXtmCBgiScY": "6rlvxof7uy4st51ad09trps",
+    "5TSx68IYHZjI1cHGba8gU": "FPjLC17J7C0fbboGPt7fE",
+    "kosx1jfsyu51awns6wp0aub": "FPjLC17J7C0fbboGPt7fE",
+    "6qqrjio7nnkje405a1s8jr3": "FPjLC17J7C0fbboGPt7fE",
+    "v562evfpexamdoo23gq7uep": "FPjLC17J7C0fbboGPt7fE",
+    "9PTbvU9AW1S2HMuY3MzUO": "FPjLC17J7C0fbboGPt7fE",
+    "qgG6FxYHRQOWUTbqlONqT": "FPjLC17J7C0fbboGPt7fE",
+    "dNglx9E2Q0wCABrKbfknx": "FPjLC17J7C0fbboGPt7fE"
+  }
+}
